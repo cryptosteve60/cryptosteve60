@@ -1,3 +1,5 @@
+<img src="./images/github_banner_avatar.png" width="100%" alt="GitHub Banner" />
+
 # 👋🏽 Hi, Cryposteve60
 
 🎓 I'm a Computer Science student at the **UOPX**, passionate about tech, problem solving, and creating tools that make life easier.

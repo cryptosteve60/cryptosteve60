@@ -1,4 +1,4 @@
-<img src="./images/github_banner_avatar.png" width="100%" alt="GitHub Banner" />
+
 
 # 👋🏽 Hi, Cryposteve60
 

@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="mr-wilson-banner.png" alt="Mr. Wilson Banner" width="600"/>
+  <img src="mr_wilson_neon_animated.gif" alt="Mr. Wilson Neon Header" width="600"/>
 </p>
 
-🎓 I'm a Computer Science student at the **UOPX**, passionate about tech, problem solving, and creating tools that make life easier.
+An Innovator, A Creative, and a Designer; who is a CS major, passionate about tech, problem solving, and creating tools that make life easier.
 
 ---
 

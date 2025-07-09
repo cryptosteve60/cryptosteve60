@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="mr-wilson-banner.png" alt="Mr. Wilson Banner" width="600"/>
+</p>
 
 # 👋🏽 Hi, Cryposteve60
 

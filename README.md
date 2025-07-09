@@ -2,8 +2,6 @@
   <img src="mr-wilson-banner.png" alt="Mr. Wilson Banner" width="600"/>
 </p>
 
-# 👋🏽 Hi, Cryposteve60
-
 🎓 I'm a Computer Science student at the **UOPX**, passionate about tech, problem solving, and creating tools that make life easier.
 
 ---
